@@ -25,13 +25,15 @@
   },
   "homepage": "https://github.com/EndOfFront/iDesign#readme",
   "dependencies": {
-    "async-validator": "^1.8.1",
-    "core-js": "^2.5.0",
-    "deepmerge": "^1.5.2",
-    "element-resize-detector": "^1.1.12",
-    "lodash.throttle": "^4.1.1",
-    "popper.js": "^0.6.4",
-    "tinycolor2": "^1.4.1"
+    "axios": "^0.16.2",
+    "clipboard": "^1.7.1",
+    "highlightjs": "^8.7.0",
+    "ityped": "0.0.6",
+    "iview": "^2.7.3",
+    "marked": "^0.3.6",
+    "vue": "^2.5.2",
+    "vue-i18n": "^5.0.3",
+    "vue-router": "^2.8.1"
   },
   "peerDependencies": {
     "vue": "^2.5.2"
